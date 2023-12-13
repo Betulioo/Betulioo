@@ -7,9 +7,10 @@
 
 ###
 
-###
 
 <p align="left">With over 8 years of culinary career working in team<br>and team building, experience as a project leader.<br>I am excited for the opportunity to integrate my skills<br>and capabilities within this new technological arena.</p>
+###
+
 <p align="left">✨ Creating bugs since July 2023<br>📚 I'm currently learning NestJs<br>🔭 I’m currently working on creating new projects using NodeJs<br>🎯 Goals: create applications that help to improve quality of life</p>
 
 ###
