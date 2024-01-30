@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since July 2023<br>📚 I'm currently learning NestJs<br>🔭 I’m currently working on creating new projects using NodeJs<br>🎯 Goals: create applications that help to improve quality of life</p>
+<p align="left">✨ Creating bugs since July 2023<br>📚 I'm currently learning NextJs<br>🔭 I’m currently working on creating new projects using NodeJs<br>🎯 Goals: create applications that help to improve quality of life</p>
 
 ###
 
