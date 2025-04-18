@@ -1,4 +1,4 @@
-<h1 align="left">Hi and welcome! I’m Luis Nuñez🧑🤟</h1>
+<h1 align="left">Hi and welcome! I’m Luis Nuñez🧑</h1>
 
 
 ###
